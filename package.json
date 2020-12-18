@@ -1,0 +1,5 @@
+{
+  "name": "deploy_openshift",
+  "private": true,
+  "dependencies": {}
+}
